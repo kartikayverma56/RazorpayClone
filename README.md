@@ -20,5 +20,5 @@ It's a website that has been designed to mimic the design of the popular Indian 
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/kartikay-verma-a61a2b25a/)
+- **LinkedIn** - [Kartikay Verma](https://www.linkedin.com/in/kartikay-verma-a61a2b25a/)
 
